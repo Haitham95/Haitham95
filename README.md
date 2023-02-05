@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitham95&show_icons=true&theme=dracula&locale=en&layout=compact" alt="haitham95" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham95&show_icons=true&theme=dracula&locale=en" alt="haitham95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham95&show_icons=true&include_all_commits=true&theme=dracula&locale=en" alt="haitham95" /></p>
